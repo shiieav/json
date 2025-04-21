@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+        "author": "Franklin D. Roosevelt"
+    },
+    
+    {
+        "id": 2,
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleonor Roosevelt"
+    },
+
+    {
+        "id": 3,
+        "quote": "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+        "author": "Martin Luther King Jr."
+    },
+
+    {
+        "id": 4,
+        "quote": "The best way to predict the future is to create it.",
+        "author": "Peter Drucker"
+    },
+
+    {
+        "id": 5,
+        "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston S. Churchill"
+    }
+
+]
