@@ -1,0 +1,16 @@
+{
+    "id": 1,
+    "name": "ishi",
+    "email": "mamamo@gmail.com",
+    "address": {
+        "street": "evangelista st.",
+        "city": "navotas",
+        "state": "PH",
+        "zip": 1480
+    },
+    "company": {
+        "name":"ado",
+        "position": "software engineer",
+        "department": "development"
+    }
+}
